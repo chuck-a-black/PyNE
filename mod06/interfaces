@@ -1,0 +1,6 @@
+                Lo0          up          up           Loopback  1500          0
+                Nu0          up          up               Null  1500          0
+       Mg0/0/CPU0/0          up        down               ARPA  1514          0
+          Gi0/0/0/0          up          up               ARPA  1514    1000000
+          Gi0/0/0/1          up        down               ARPA  1514      10000
+          Gi0/0/0/2        down        down               ARPA  1514      10000
